@@ -1,32 +1,32 @@
 [
 {
-    "title": "Ghost",
+    "title": "Áo đen",
     "color": "Black",
     "type" : "Sale",
     "price": 19.99,
     "sizes": [
-        "small",
-        "medium",
-        "large",
-        "extralarge"
+        "nhỏ",
+        "vừa",
+        "lớn",
+        "cực lớn"
     ],
     "image" : "assets/img/products/ghostblack.png"
 }, 
 {
-    "title": "Ghost",
+    "title": "Áo cam",
     "color": "Orange",
     "type" : "Sale",
     "price": 19.99,
     "sizes": [
-        "small",
-        "medium",
-        "large",
-        "extralarge"
+        "nhỏ",
+        "vừa",
+        "lớn",
+        "cực lớn"
     ],
     "image" : "assets/img/products/ghostorange.png"
 },
 {
-    "title": "Ghost",
+    "title": "Áo hồng",
     "color": "Pink",
     "type" : "Sale",
     "price": 19.99,

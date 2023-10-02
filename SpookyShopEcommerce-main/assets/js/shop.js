@@ -66,11 +66,11 @@ const renderCard = (products) => {
   </span>
   <div class="products-size">
       <select>
-          <option selected disabled>Choose a size</option>
-          <option>Small</option>
-          <option>Medium</option>
-          <option>Large</option>
-          <option>Extra-Large</option>
+          <option selected disabled>Chọn size</option>
+          <option>Nhỏ</option>
+          <option>Vừa</option>
+          <option>Lớn</option>
+          <option>Cực lớn</option>
       </select>
       <span class="custom-caret">
           <i class="fa-solid fa-caret-down"></i>
